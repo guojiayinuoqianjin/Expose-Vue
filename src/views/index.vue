@@ -45,7 +45,7 @@ img{
             </div>
 
             <h2>
-                <p>曝光吧，让更多人防止被骗！</p>
+                <p>曝光吧,让更多的人防止被骗,打击举报骗子！</p>
                 <Button type="ghost" @click="handleStart">下载app </Button>
             </h2>
             </Col>
